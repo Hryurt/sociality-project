@@ -8,6 +8,10 @@ Before installing this program, follow the instructions below. (If you have alre
 * Install Python 3.x from [here](https://www.python.org/downloads/)
 * Install MySQL and MySQL Workbench (for instruction look at [here](https://dev.mysql.com/downloads/) and [here](https://www.mysql.com/products/workbench/))
 * Install PIP (for detailed information [click](https://phoenixnap.com/kb/install-pip-windows))
+* Install Python dotenv
+```
+pip install -U python-dotenv
+```
 * Install MySQL Connector, use code below
 ```
 pip install mysql-connector-python
