@@ -14,6 +14,7 @@ pip install mysql-connector-python
 ```
 ## How To Run
 
+* Download the files product.py and my.env to the **same file**. If you do not do that it cannot find proper .env file.
 * There are two files in the program: product.py and my.env. product.py is the main code that do the given purpose. my.env is the environment values file. There are four environment values in the file. HOST variable is the name of the host you want to use. USER variable is the name of the MySql user you want to connect. PASSWORD variable is the password of the MySql Connection. DATA_BASE_NAME variable is the database that you want to create. You can change these 4 value by editing the file. **Please do the necessary regulations then run the program.**
 * Optionally you can write only one URL or multiple URLs to run the code. If you to use multiple URLs please parse these URLs with comma. 
 * You can run the code by using the command below
