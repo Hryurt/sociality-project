@@ -4,7 +4,7 @@ A program that gets names, images' links, and prices of given products in given 
 
 ## Before Running
 
-Before installing this program, follow the instructions below. (If you have already installed these requirement, disregard this part.)
+Before installing this program, follow the instructions below. (If you have already installed these requirements, disregard this part.)
 * Install Python from [here](https://www.python.org/downloads/)
 * Install MySQL and MySQL Workbench (for instruction look at [here](https://dev.mysql.com/downloads/) and [here](https://www.mysql.com/products/workbench/))
 * Install PIP (for detailed information [click](https://phoenixnap.com/kb/install-pip-windows))
