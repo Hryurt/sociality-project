@@ -21,3 +21,7 @@ pip install mysql-connector-python
 ```
 python product.py {{ValidURL1},{ValidURL2},...,{ValidURLN}}
 ```
+* For Bash
+```
+python3 product.py {{ValidURL1},{ValidURL2},...,{ValidURLN}}
+```
