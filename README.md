@@ -15,7 +15,7 @@ Before installing this program, follow the instructions below. (If you have alre
 ## How To Run
 
 * Download the files product.py and my.env to the **same file**. If you do not apply this it cannot find proper .env file.
-* Edit my.env file according to your MySQL information. **Use proper user name and password.
+* Edit my.env file according to your MySQL information. **Use proper user name and password.**
 * Optionally you can write only one URL or multiple URLs to run the code. If you use multiple URLs, please parse these URLs with comma. 
 * First run the command below to install dependencies
 ```
